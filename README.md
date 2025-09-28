@@ -4,7 +4,10 @@
 
 Desenvolvedor Back-End com mais de 1 de experiencia desenvolvendo aplicações com C#, .NET, banco de dados e sempre buscando a qualidade e performance das aplicações. 🚀 Sou apaixonado por tecnologia e fascinado em descobrir como as coisas funcionam e como podem mudar a forma que vivemos.
 
-No meu linkedin, "[**Miguel Totti**](https://www.linkedin.com/in/miguel-totti/)", eu mostro um pouco da evolução dos meus projetos, e no meu "🔗[**Portifolio**]"(https://gitfollio.vercel.app/migueltotti/) você pode dar uma olhada geral por elesda uma olhada lá 😁
+No meu linkedin, "[**Miguel Totti**](https://www.linkedin.com/in/miguel-totti/)", eu mostro um pouco da evolução dos meus projetos, e no meu 
+<a href="https://gitfollio.vercel.app/migueltotti"> 🔗
+  Portifólio
+</a>
 <!-- GitFolio:start
 {
   "gitfolio": "on",
@@ -136,6 +139,7 @@ Estudante de engenharia da computação, estagiário de desenvolvimento back-end
 ]
 }
 GitFolio:end -->
+você pode dar uma olhada geral por eles, da uma olhada lá 😁
 
 Estuante de engenharia da computação, monitor de programação na faculdade e escoteiro voluntário à 10 anos.
 
